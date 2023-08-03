@@ -1,0 +1,62 @@
+2023-05-19T12:00:24.535853+0300 DEBUG Client Address:
+2023-05-19T12:00:24.538852+0300 DEBUG Client Socket:
+2023-05-19T12:01:51.093752+0300 DEBUG Client Address:('127.0.0.1', 56281)
+2023-05-19T12:01:51.096752+0300 DEBUG Client Socket:
+2023-05-19T12:02:31.505778+0300 DEBUG Client Address:('127.0.0.1', 56318)
+2023-05-19T12:02:31.507779+0300 DEBUG Client Socket:
+2023-05-19T12:02:58.120703+0300 DEBUG Client Address:('127.0.0.1', 56365)
+2023-05-19T12:02:58.124704+0300 DEBUG Client Socket:<socket.socket fd=996, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 56365)>
+2023-05-19T12:45:58.392863+0300 INFO Client Address:('127.0.0.1', 50846)
+2023-05-19T12:45:58.397864+0300 INFO Client Socket:<socket.socket fd=868, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 50846)>
+2023-05-19T15:53:42.447349+0300 INFO Client Address:('127.0.0.1', 64113)
+2023-05-19T15:53:42.450350+0300 INFO Client Socket:<socket.socket fd=824, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 64113)>
+2023-05-19T15:54:58.240348+0300 INFO Client Address:('127.0.0.1', 64175)
+2023-05-19T15:54:58.243351+0300 INFO Client Socket:<socket.socket fd=772, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 64175)>
+2023-05-19T16:01:27.714746+0300 INFO Client Address:('127.0.0.1', 64526)
+2023-05-19T16:01:27.717743+0300 INFO Client Socket:<socket.socket fd=892, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 64526)>
+2023-05-19T16:02:32.890855+0300 INFO Client Address:('127.0.0.1', 64586)
+2023-05-19T16:02:32.893856+0300 INFO Client Socket:<socket.socket fd=676, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 64586)>
+2023-05-19T16:03:00.138286+0300 INFO Client Address:('127.0.0.1', 64633)
+2023-05-19T16:03:00.142284+0300 INFO Client Socket:<socket.socket fd=840, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 64633)>
+2023-05-19T16:03:51.645066+0300 INFO Client Address:('127.0.0.1', 64673)
+2023-05-19T16:03:51.648070+0300 INFO Client Socket:<socket.socket fd=780, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 64673)>
+2023-05-19T16:06:32.738254+0300 INFO Client Address:('127.0.0.1', 64813)
+2023-05-19T16:06:32.741253+0300 INFO Client Socket:<socket.socket fd=844, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 64813)>
+2023-05-19T16:07:24.552210+0300 INFO Client Address:('127.0.0.1', 64871)
+2023-05-19T16:07:24.555211+0300 INFO Client Socket:<socket.socket fd=860, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 64871)>
+2023-05-19T16:10:02.099156+0300 INFO Client Address:('127.0.0.1', 65031)
+2023-05-19T16:10:02.102158+0300 INFO Client Socket:<socket.socket fd=788, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 65031)>
+2023-05-19T16:11:33.262093+0300 INFO Client Address:('127.0.0.1', 65108)
+2023-05-19T16:11:33.265091+0300 INFO Client Socket:<socket.socket fd=692, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 65108)>
+2023-05-19T16:14:23.176486+0300 INFO Client Address:('127.0.0.1', 65278)
+2023-05-19T16:14:23.181486+0300 INFO Client Socket:<socket.socket fd=900, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 65278)>
+2023-05-19T16:14:52.081278+0300 INFO Client Address:('127.0.0.1', 65304)
+2023-05-19T16:14:52.084280+0300 INFO Client Socket:<socket.socket fd=896, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 65304)>
+2023-05-19T16:22:47.164534+0300 INFO Client Address:('127.0.0.1', 49325)
+2023-05-19T16:22:47.167537+0300 INFO Client Socket:<socket.socket fd=608, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 49325)>
+2023-05-19T16:23:22.490906+0300 INFO Client Address:('127.0.0.1', 49366)
+2023-05-19T16:23:22.492904+0300 INFO Client Socket:<socket.socket fd=368, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 49366)>
+2023-05-19T16:24:04.296161+0300 INFO Client Address:('127.0.0.1', 49410)
+2023-05-19T16:24:04.298132+0300 INFO Client Socket:<socket.socket fd=292, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 49410)>
+2023-05-19T16:34:45.526572+0300 INFO Client Address:('127.0.0.1', 49981)
+2023-05-19T16:34:45.527574+0300 INFO Client Socket:<socket.socket fd=640, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 49981)>
+2023-05-19T16:35:15.818894+0300 INFO Client Address:('127.0.0.1', 50075)
+2023-05-19T16:35:15.820894+0300 INFO Client Socket:<socket.socket fd=396, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 50075)>
+2023-05-19T16:36:00.432868+0300 INFO Client Address:('127.0.0.1', 50115)
+2023-05-19T16:36:00.434869+0300 INFO Client Socket:<socket.socket fd=596, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 50115)>
+2023-05-19T16:36:34.896362+0300 INFO Client Address:('127.0.0.1', 50152)
+2023-05-19T16:36:34.897362+0300 INFO Client Socket:<socket.socket fd=608, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 50152)>
+2023-05-19T16:38:35.315417+0300 INFO Client Address:('127.0.0.1', 50291)
+2023-05-19T16:38:35.316416+0300 INFO Client Socket:<socket.socket fd=524, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 50291)>
+2023-05-19T16:40:06.978664+0300 INFO Client Address:('127.0.0.1', 50441)
+2023-05-19T16:40:06.980663+0300 INFO Client Socket:<socket.socket fd=492, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 50441)>
+2023-05-19T16:41:35.896687+0300 INFO Client Address:('127.0.0.1', 50519)
+2023-05-19T16:41:35.898688+0300 INFO Client Socket:<socket.socket fd=600, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 50519)>
+2023-05-19T16:42:31.021957+0300 INFO Client Address:('127.0.0.1', 50577)
+2023-05-19T16:42:31.023955+0300 INFO Client Socket:<socket.socket fd=340, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 50577)>
+2023-05-19T16:43:48.376824+0300 INFO Client Address:('127.0.0.1', 50641)
+2023-05-19T16:43:48.378820+0300 INFO Client Socket:<socket.socket fd=372, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 50641)>
+2023-05-19T16:44:06.106978+0300 INFO Client Address:('127.0.0.1', 50658)
+2023-05-19T16:44:06.108977+0300 INFO Client Socket:<socket.socket fd=712, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 50658)>
+2023-05-19T16:45:14.948755+0300 INFO Client Address:('127.0.0.1', 50718)
+2023-05-19T16:45:14.950795+0300 INFO Client Socket:<socket.socket fd=696, family=2, type=1, proto=0, laddr=('127.0.0.1', 2234), raddr=('127.0.0.1', 50718)>
